@@ -114,7 +114,7 @@
 
 <script>
 	function agreeAction() {
-	        window.location.href = "js/jingxuan.html";
+	        window.location.href = "js/shouye.html";
 	    }
 	document.getElementById('disagree').addEventListener('click', function() {
 	        alert('请您选择权限后方可使用');
